@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
 </p>
-
+ 
 <h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
  <h4 align="center"> <em> Professores responsáveis: Poyatos & Rafaela </em></h4>
 <p> Estrutura de Dados e Algoritmos aborda a manipulação e organização de dados por meio de estruturas simples e complexas, incluindo listas, pilhas, filas, conjuntos, com alocação sequencial e encadeada. Também explora conceitos como recursão, árvores de busca, teoria de grafos para solução de problemas de busca, além da eficiência na pesquisa e ordenação de dados. Avalia-se a capacidade de desempenho e complexidade dos códigos (algoritmos), com a consideração de problemas que podem ser insolúveis computacionalmente. </p>
