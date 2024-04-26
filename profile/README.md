@@ -1,20 +1,28 @@
-<h1 align=center> 👽 A3 • 2024 👽 </h1>
+<p align="center">
+  <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
+</p>
 
+<h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
+ <h4 align="center"> <em> Professores responsáveis: Poyatos & Rafaela </em></h4>
+<p> Estrutura de Dados e Algoritmos aborda a manipulação e organização de dados por meio de estruturas simples e complexas, incluindo listas, pilhas, filas, conjuntos, com alocação sequencial e encadeada. Também explora conceitos como recursão, árvores de busca, teoria de grafos para solução de problemas de busca, além da eficiência na pesquisa e ordenação de dados. Avalia-se a capacidade de desempenho e complexidade dos códigos (algoritmos), com a consideração de problemas que podem ser insolúveis computacionalmente. </p>
 
+[![aulas - poyatos](https://img.shields.io/badge/repositorio-poyatos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/poyatos/src)
+[![aulas - rafa](https://img.shields.io/badge/aulas-rafa-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quarto-semestre/Estrutura_dados_presencial) 
 
-## 👾 Sobre a A3
- lorem lore lorem
+[![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
+[![organização](https://img.shields.io/badge/organização-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDAA-2024-1)
 
-## 💡 Propostas da A3
+---
 
+<h2 align="center"> Teoria da Computação e Compiladores </h2>
+ <h4 align="center"> <em> Professor responsável: André </em></h4>
+
+ <p> Teoria da Computação e Compiladores estuda como descrever formalmente linguagens para serem reconhecidas por máquinas computacionais. Ela explora modelos matemáticos, classificações de linguagens, estruturas, propriedades e relacionamentos entre elas. Também abrange a interpretação de linguagens de programação, identificação de elementos e validação semântica, além do uso de ferramentas na construção de compiladores. </p>
  
+[![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
 
-<h2 >🧙‍♂️Membros </h2>
 
-  
-[![Gabrielle Soares- 422221763](https://img.shields.io/badge/Gabrielle_Soares-422221763-pink?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/gabriellesote)
-[![Lucas Rodrigues - 422222503](https://img.shields.io/badge/Lucas_Rodrigues-422222503-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/LucasRramos)
-[![Gabriel Bernardes - 422222195](https://img.shields.io/static/v1?label=Gabriel+Bernardes&message=422222195&color=0f6103&style=for-the-badge&logo=github&logoColor=0f6103)](https://github.com/Gabber28)
-[![ Anna Clara - 422142003](https://img.shields.io/static/v1?label=+Anna+Clara&message=422142003&color=C683D7&style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/byasun)
-  
+ <img  align="center" src="https://ugokawaii.com/wp-content/uploads/2023/03/studying.gif">
+
+
 
