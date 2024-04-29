@@ -1,16 +1,20 @@
-<p align="center">
-  <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
-</p>
- 
+ <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
+
+<h3 align="center"> 
+
+[![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
+[![organização - Rafa](https://img.shields.io/badge/organização_--_Rafa-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDAA-2024-1)
+
+</h3>
+
+
 <h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
  <h4 align="center"> <em> Professores responsáveis: Poyatos & Rafaela </em></h4>
 <p> Estrutura de Dados e Algoritmos aborda a manipulação e organização de dados por meio de estruturas simples e complexas, incluindo listas, pilhas, filas, conjuntos, com alocação sequencial e encadeada. Também explora conceitos como recursão, árvores de busca, teoria de grafos para solução de problemas de busca, além da eficiência na pesquisa e ordenação de dados. Avalia-se a capacidade de desempenho e complexidade dos códigos (algoritmos), com a consideração de problemas que podem ser insolúveis computacionalmente. </p>
 
-[![aulas - poyatos](https://img.shields.io/badge/repositorio-poyatos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriellesote/4semestre/tree/main/poyatos/src)
-[![aulas - rafa](https://img.shields.io/badge/aulas-rafa-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quarto-semestre/Estrutura_dados_presencial) 
+### 🤓Atividades 
 
-[![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
-[![organização](https://img.shields.io/badge/organização-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDAA-2024-1)
+[![lista 1](https://img.shields.io/badge/lista_1-c718c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S4-2024/Lista1)
 
 ---
 
