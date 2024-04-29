@@ -25,8 +25,10 @@
  
 [![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
 
+<div align="center"> 
+ <img   src="https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif">
+</div>
 
- <img  align="center" src="https://ugokawaii.com/wp-content/uploads/2023/03/studying.gif">
 
 
 
