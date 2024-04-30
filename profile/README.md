@@ -1,14 +1,12 @@
  <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
+<h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
 
-<h3 align="center"> 
-
+<div align="center"> 
+ 
 [![discord poyatos](https://img.shields.io/badge/discord_poyatos-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1019994810804871342/@home)
 [![organização - Rafa](https://img.shields.io/badge/organização_--_Rafa-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EDAA-2024-1)
+</div>
 
-</h3>
-
-
-<h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
  <h4 align="center"> <em> Professores responsáveis: Poyatos & Rafaela </em></h4>
 <p> Estrutura de Dados e Algoritmos aborda a manipulação e organização de dados por meio de estruturas simples e complexas, incluindo listas, pilhas, filas, conjuntos, com alocação sequencial e encadeada. Também explora conceitos como recursão, árvores de busca, teoria de grafos para solução de problemas de busca, além da eficiência na pesquisa e ordenação de dados. Avalia-se a capacidade de desempenho e complexidade dos códigos (algoritmos), com a consideração de problemas que podem ser insolúveis computacionalmente. </p>
 
@@ -19,11 +17,23 @@
 ---
 
 <h2 align="center"> Teoria da Computação e Compiladores </h2>
+
+<div align="center">
+ 
+ [![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
+</div>
+
+
+ 
  <h4 align="center"> <em> Professor responsável: André </em></h4>
 
  <p> Teoria da Computação e Compiladores estuda como descrever formalmente linguagens para serem reconhecidas por máquinas computacionais. Ela explora modelos matemáticos, classificações de linguagens, estruturas, propriedades e relacionamentos entre elas. Também abrange a interpretação de linguagens de programação, identificação de elementos e validação semântica, além do uso de ferramentas na construção de compiladores. </p>
+
+ ### 🤓Atividades 
  
-[![classroom](https://img.shields.io/badge/classroom-008a20?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://classroom.google.com/c/NjY0Mjk5MDIxNjYy)
+[![Seminário chomsky](https://img.shields.io/badge/Seminário_chomsky-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Chomsky)
+
+<br>
 
 <div align="center"> 
  <img   src="https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif">
