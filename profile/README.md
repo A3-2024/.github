@@ -14,6 +14,8 @@
 
 [![lista 1](https://img.shields.io/badge/lista_1-c718c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S4-2024/Lista1)
 
+[![maratona](https://img.shields.io/badge/maratona-b57f12?style=for-the-badge&logo=github)](https://github.com/S4-2024/Maratona)
+
 ---
 
 <h2 align="center"> Teoria da Computação e Compiladores </h2>
