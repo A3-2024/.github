@@ -13,6 +13,7 @@
 ### 🤓Atividades 
 
 [![lista 1](https://img.shields.io/badge/lista_1-c718c4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S4-2024/Lista1)
+[![Lista 2](https://img.shields.io/badge/Lista_2-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Lista2)
 
 [![maratona](https://img.shields.io/badge/maratona-b57f12?style=for-the-badge&logo=github)](https://github.com/S4-2024/Maratona)
 
