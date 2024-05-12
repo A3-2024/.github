@@ -1,4 +1,4 @@
- <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
+ <img alt="banner" src="https://github.com/S4-2024/.github/blob/main/profile/ESTRUTURAS%20DE%20DADOS%20E%20ALGORITMOS.png">
 <h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
 
 <div align="center"> 
