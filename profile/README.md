@@ -16,6 +16,7 @@
 [![Lista 2](https://img.shields.io/badge/Lista_2-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Lista2)
 
 [![maratona](https://img.shields.io/badge/maratona-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Maratona)
+ [![projeto a3](https://img.shields.io/badge/projeto_a3-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/crud_academia)
 
 ---
 
@@ -28,13 +29,15 @@
 
 
  
- <h4 align="center"> <em> Professor responsável: André </em></h4>
+ <h4 align="center"> <em> Professor responsável: André & Marco</em></h4>
 
  <p> Teoria da Computação e Compiladores estuda como descrever formalmente linguagens para serem reconhecidas por máquinas computacionais. Ela explora modelos matemáticos, classificações de linguagens, estruturas, propriedades e relacionamentos entre elas. Também abrange a interpretação de linguagens de programação, identificação de elementos e validação semântica, além do uso de ferramentas na construção de compiladores. </p>
 
  ### 🤓Atividades 
  
 [![Seminário chomsky](https://img.shields.io/badge/Seminário_chomsky-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Chomsky)
+[![analisador Léxico](https://img.shields.io/badge/analisador_Léxico-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/lexicalanalyzer)
+[![projeto a3](https://img.shields.io/badge/projeto_a3-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Compilador-A3)
 
 <br>
 
