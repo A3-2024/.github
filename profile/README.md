@@ -14,7 +14,6 @@
 
 [![lista 1](https://img.shields.io/badge/lista_1-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Lista1)
 [![Lista 2](https://img.shields.io/badge/Lista_2-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Lista2)
-
 [![maratona](https://img.shields.io/badge/maratona-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Maratona)
  [![projeto a3](https://img.shields.io/badge/projeto_a3-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/crud_academia)
 
