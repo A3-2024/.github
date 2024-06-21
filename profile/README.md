@@ -36,7 +36,7 @@
  
 [![Seminário chomsky](https://img.shields.io/badge/Seminário_chomsky-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Chomsky)
 [![analisador Léxico](https://img.shields.io/badge/analisador_Léxico-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/lexicalanalyzer)
-[![projeto a3](https://img.shields.io/badge/projeto_a3-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/Compilador-A3)
+[![projeto a3](https://img.shields.io/badge/projeto_a3-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/S4-2024/projeto-a3-compilador)
 
 <br>
 
